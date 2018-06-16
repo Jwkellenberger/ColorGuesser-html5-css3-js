@@ -23,7 +23,7 @@ function difficultySelect(){
 function retreiveColor(){
     if(this.style.backgroundColor === solution){
         response.textContent = 'Correct!';
-        recolor.textContent = 'Play Again?';
+        recolor.textContent = 'Reset Game';
         changeColor(solution, this);
     }
     else{
