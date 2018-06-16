@@ -22,13 +22,13 @@ function difficultySelect(){
 
 function retreiveColor(){
     if(this.style.backgroundColor === solution){
-        response.textContent = 'Correct!';
+        response.textContent = 'Correct';
         recolor.textContent = 'Reset Game';
         changeColor(solution, this);
     }
     else{
         this.style.backgroundColor = 'inherit';
-        response.textContent = 'Wrong!';
+        response.textContent = 'Wrong';
     }
 }
 
