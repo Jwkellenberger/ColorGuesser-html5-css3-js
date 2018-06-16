@@ -58,7 +58,7 @@ function resetColors(){
 }
 
 function setInitialValues(){
-    selector = (easy)? 3:6;
+    selector = (easy)? 3:9;
     pickedColorIndex = pickRandomIndex(selector);
     response.textContent = '';
     heading.style.backgroundColor = 'rgb(8, 142, 252)';
