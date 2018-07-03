@@ -1,7 +1,7 @@
 # ColorGuesser-HTML5-CSS3
 
 ### The face of the web app:
-![colorGuesser](https://i.imgur.com/679kEX2.png)
+![colorGuesser1](https://i.imgur.com/679kEX2.png)
 
 ### The interactivity is kept minimal and is programmed in raw js
 
@@ -21,4 +21,9 @@
 ```
 
 ### The visual of failed picks results in the clicked div fading to an offblack color
-![Imgur](https://i.imgur.com/yLuaZS1.png)
+![colorGuesser2](https://i.imgur.com/yLuaZS1.png)
+All the non-correct answers have been clicked!
+
+### The visual of all divs, and the header, fade to the "correct" color upon successful pick
+![colorGuesser3](https://i.imgur.com/CzivqT6.png)
+
