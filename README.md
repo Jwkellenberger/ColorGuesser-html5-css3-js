@@ -19,3 +19,6 @@
   var selectHard = document.querySelector('.hard');
   var recolor = document.querySelector('.recolor');
 ```
+
+### The visual of failed picks results in the clicked div fading to an offblack color
+![Imgur](https://i.imgur.com/yLuaZS1.png)
