@@ -5,8 +5,7 @@
 
 ### The interactivity is kept minimal and is programmed in raw js
 
-<dl>
-
+<html>
   var colors = [];
   var easy = false;
   var solutoin;
@@ -19,5 +18,4 @@
   var selectEasy = document.querySelector('.easy');
   var selectHard = document.querySelector('.hard');
   var recolor = document.querySelector('.recolor');
-
-</dl>
+</html>
