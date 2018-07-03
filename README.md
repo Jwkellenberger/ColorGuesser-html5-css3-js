@@ -27,3 +27,6 @@ All the non-correct answers have been clicked!
 ### The visual of all divs, and the header, fade to the "correct" color upon successful pick
 ![colorGuesser3](https://i.imgur.com/CzivqT6.png)
 
+### Hard mode vs Easy mode
+The easy mode setting is a 1x3 grid for picking one correct answer
+The hard mode setting is a 3x3 grid for picking one correct answer
