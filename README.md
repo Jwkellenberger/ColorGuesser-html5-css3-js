@@ -5,17 +5,17 @@
 
 ### The interactivity is kept minimal and is programmed in raw js
 
-<html>
-  var colors = [];
-  var easy = false;
-  var solutoin;
-  var selector;
-  var pickedColorIndex;
-  var heading = document.querySelector('.header');
-  var squares = document.querySelectorAll('.square');
-  var solutionVisual = document.querySelector('.colorGoal');
-  var response = document.querySelector('.response');
-  var selectEasy = document.querySelector('.easy');
-  var selectHard = document.querySelector('.hard');
-  var recolor = document.querySelector('.recolor');
-</html>
+
+>  var colors = [];
+>  var easy = false;
+>  var solutoin;
+>  var selector;
+>  var pickedColorIndex;
+>  var heading = document.querySelector('.header');
+>  var squares = document.querySelectorAll('.square');
+>  var solutionVisual = document.querySelector('.colorGoal');
+>  var response = document.querySelector('.response');
+>  var selectEasy = document.querySelector('.easy');
+>  var selectHard = document.querySelector('.hard');
+>  var recolor = document.querySelector('.recolor');
+
